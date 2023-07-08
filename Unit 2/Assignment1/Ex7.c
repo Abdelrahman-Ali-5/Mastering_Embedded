@@ -7,7 +7,7 @@
 
 
 #include <stdio.h>
-/*
+
 void main(){
 	setvbuf(stdout,NULL,_IONBF,0);
 	setvbuf(stderr,NULL,_IONBF,0);
@@ -40,4 +40,4 @@ void main(){
 	printf("after swapping value of a is : %d \n" ,x);
 	printf("after swapping value of b is : %d \n" ,y);
 }
-*/
+

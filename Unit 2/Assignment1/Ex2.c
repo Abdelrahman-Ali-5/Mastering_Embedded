@@ -7,7 +7,7 @@
 
 
 #include <stdio.h>
-/*
+
 void main(){
 	setvbuf(stdout,NULL,_IONBF,0);
 	setvbuf(stderr,NULL,_IONBF,0);
@@ -17,4 +17,4 @@ void main(){
 	scanf("%d",&x);
 	printf("you entered %d ",x);
 }
-*/
+
