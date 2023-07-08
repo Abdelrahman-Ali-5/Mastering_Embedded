@@ -7,7 +7,7 @@
 
 
 #include <stdio.h>
-/*
+
 void main(){
 
 	setvbuf(stdout,NULL,_IONBF,0);
@@ -33,4 +33,4 @@ void main(){
 	printf("The largest number between %d , %d , %d is %d ",x,y,z,largest);
 
 }
-*/
+

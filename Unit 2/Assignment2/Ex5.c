@@ -6,7 +6,7 @@
  */
 
 #include <stdio.h>
-/*
+
 void main(){
 
 	setvbuf(stdout,NULL,_IONBF,0);
@@ -23,4 +23,4 @@ void main(){
 		printf("This character %c is not alphabetic ",x);
 
 }
-*/
+

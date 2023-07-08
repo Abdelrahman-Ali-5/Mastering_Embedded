@@ -9,7 +9,7 @@
 #include <stdio.h>
 
 void main(){
-/*
+
 	setvbuf(stdout,NULL,_IONBF,0);
 	setvbuf(stderr,NULL,_IONBF,0);
 
@@ -38,4 +38,4 @@ void main(){
 		printf("you entered wrong operator !");
 	}
 }
-*/
+

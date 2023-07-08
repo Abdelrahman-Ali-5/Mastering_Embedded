@@ -7,7 +7,7 @@
 
 
 #include <stdio.h>
-/*
+
 void main(){
 
 	setvbuf(stdout,NULL,_IONBF,0);
@@ -23,4 +23,4 @@ void main(){
 	printf("The sum from 1 to %d is %d ",n,sum);
 
 }
-*/
+

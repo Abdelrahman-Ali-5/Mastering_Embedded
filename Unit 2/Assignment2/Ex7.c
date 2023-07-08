@@ -6,7 +6,7 @@
  */
 
 #include <stdio.h>
-/*
+
 void main(){
 
 	setvbuf(stdout,NULL,_IONBF,0);
@@ -27,4 +27,4 @@ void main(){
 
 	}
 }
-*/
+
