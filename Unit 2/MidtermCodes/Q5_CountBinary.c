@@ -5,7 +5,7 @@
  *      Author: kollaly
  */
 
-/*
+
 #include <stdio.h>
 
 int countBinary(int num);
@@ -37,4 +37,4 @@ int countBinary(int num){
 	}
 	return count;
 }
-*/
+

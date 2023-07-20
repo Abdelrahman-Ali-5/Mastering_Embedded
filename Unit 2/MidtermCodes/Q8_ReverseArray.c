@@ -5,7 +5,7 @@
  *      Author: kollaly
  */
 
-/*
+
 #include <stdio.h>
 void reverseArr();
 void main(){
@@ -46,4 +46,4 @@ void reverseArr(int arr[] , int n ){
 	}
 
 }
-*/
+

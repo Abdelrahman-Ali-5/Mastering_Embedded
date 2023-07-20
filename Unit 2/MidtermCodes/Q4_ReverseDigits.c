@@ -5,7 +5,7 @@
  *      Author: kollaly
  */
 
-/*
+
 #include <stdio.h>
 
 int reverseDigits(int num);
@@ -32,4 +32,4 @@ int reverseDigits(int num){
 	}
 	return reversed;
 }
-*/
+

@@ -5,7 +5,7 @@
  *      Author: kollaly
  */
 
-/*
+
 #include <stdio.h>
 #include <string.h>
 
@@ -48,4 +48,4 @@ void reverseWords(char arr[],char swapped[]){
 	strcat(swapped,temp);
 
 }
-*/
+

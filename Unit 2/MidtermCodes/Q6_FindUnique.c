@@ -5,7 +5,7 @@
  *      Author: kollaly
  */
 
-/*
+
 #include <stdio.h>
 
 int findUnique(int arr[], int n);
@@ -40,4 +40,4 @@ int findUnique(int arr[], int n){
 	}
 	return unique;
 }
-*/
+

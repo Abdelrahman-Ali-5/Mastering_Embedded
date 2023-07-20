@@ -5,7 +5,7 @@
  *      Author: kollaly
  */
 
-/*
+
 #include <stdio.h>
 
 void getPrime(int a , int b , int arr[]);
@@ -55,5 +55,5 @@ void getPrime(int a , int b , int arr[]){
 	}
 	arr[k] = -1;
 }
-*/
+
 

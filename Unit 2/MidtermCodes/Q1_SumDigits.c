@@ -5,7 +5,7 @@
  *      Author: kollaly
  */
 
-/*
+
 #include <stdio.h>
 
 int sumDigits(int num);
@@ -31,4 +31,4 @@ int sumDigits(int num){
 	}
 	return sum;
 }
-*/
+

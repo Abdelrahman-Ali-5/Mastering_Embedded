@@ -5,7 +5,7 @@
  *      Author: kollaly
  */
 
-/*
+
 #include <stdio.h>
 
 int sum(int num);
@@ -25,4 +25,4 @@ int sum(int num){
 	}
 	return sum(num-1)+num;
 }
-*/
+

@@ -5,7 +5,7 @@
  *      Author: kollaly
  */
 
-/*
+
 #include <stdio.h>
 
 int CountMaxOnes(int num);
@@ -43,4 +43,4 @@ int CountMaxOnes(int num) {
 	return max;
 }
 
-*/
+

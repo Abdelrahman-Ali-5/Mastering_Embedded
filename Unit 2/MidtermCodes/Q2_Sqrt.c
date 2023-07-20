@@ -5,7 +5,7 @@
  *      Author: kollaly
  */
 
-/*
+
 #include <stdio.h>
 #include <math.h>
 
@@ -28,4 +28,4 @@ float squareRoot(int num){
 
 	return pow(num,0.5);
 }
-*/
+
